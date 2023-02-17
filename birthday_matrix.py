@@ -97,5 +97,5 @@ while True:
 # print(x31, x32, x33, x34, x41, x42, x43, x44)
 print("The date with the highest determinant is " + str(maxyear) + "/" + str(maxmonth) + "/" + str(maxday) + "!")
 print("The highest determinant is:" + str(maxdet))
-print("The date with the highest determinant is " + str(minyear) + "/" + str(minmonth) + "/" + str(minday) + "!")
-print("The highest determinant is:" + str(mindet))
+print("The date with the lowest determinant is " + str(minyear) + "/" + str(minmonth) + "/" + str(minday) + "!")
+print("The lowest determinant is:" + str(mindet))
