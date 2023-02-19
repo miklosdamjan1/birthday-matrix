@@ -7,3 +7,4 @@ MMDD
 YYYY
 MMDD
 I did not use functions for this because as tested it resulted in a much higher calculation time. This way it can calculate each days determinant for a million years in about 10 minutes.
+The birthay_matrix_interval takes much more time to calculate however it can go trough all the possible birthdays between a given interval
