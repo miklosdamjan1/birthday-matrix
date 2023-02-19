@@ -21,7 +21,7 @@ det = x11 * (x22 * (x33 * x44 - x34 * x43) - x23 * (x32 * x44 - x34 * x42) + x24
       - x12 * (x21 * (x33 * x44 - x34 * x43) - x23 * (x31 * x44 - x34 * x41) + x24 * (x31 * x43 - x33 * x41)) \
       + x13 * (x21 * (x32 * x44 - x34 * x42) - x22 * (x31 * x44 - x34 * x41) + x24 * (x31 * x42 - x41 * x32)) \
       - x14 * (x21 * (x32 * x43 - x33 * x42) - x22 * (x31 * x43 - x33 * x41) + x23 * (x31 * x42 - x32 * x41))
-# min-max determinant of the next 100 years
+# min-max determinant of the next "duration" years
 while True:
     #    if a == 100000:
     #        break
